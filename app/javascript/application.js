@@ -3,4 +3,4 @@ import "@hotwired/turbo-rails"
 import "controllers"
 // Loads all Semantic javascripts
 //= require jquery
-// = require semantic-ui
+//= require semantic-ui
